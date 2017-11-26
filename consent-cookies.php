@@ -9,7 +9,7 @@
  * that starts the plugin.
  *
  * @link              http://www.woocommerce.expert
- * @since             1.0.0
+ * @since             1.0.5
  * @package           Consent_Cookies
  *
  * @wordpress-plugin
@@ -121,13 +121,14 @@ if($isconsentgiven=='accepted'){
 <?php
 }
 
+ 
+
+
 require 'plugin-update-checker/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4p3_Factory::buildUpdateChecker(
-	'https://github.com/princeali7/cookies/',
+	'https://github.com/princeali7/cookies',
 	__FILE__,
-	'consent-cookies'
-);
-
-
-
+	'consent-cookie'
+); 
+ 
 //consent_management_page
