@@ -9,14 +9,14 @@
  * that starts the plugin.
  *
  * @link              http://www.woocommerce.expert
- * @since             1.0.5
+ * @since             1.0.0
  * @package           Consent_Cookies
  *
  * @wordpress-plugin
- * Plugin Name:       Consent Protect
+ * Plugin Name:       Consent Protect 
  * Plugin URI:        http://consentprotect.com
  * Description:       Managing consents using smart contracts.
- * Version:           1.0.0
+ * Version:           1.0.5
  * Author:            Ali Raza 
  * Author URI:        http://www.woocommerce.expert
  * License:           GPL-2.0+
