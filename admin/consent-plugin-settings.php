@@ -55,8 +55,8 @@ class Wppb_Admin_Settings {
     public function setup_plugin_options_menu() {
         //Add the menu to the Plugins set of menu items
         add_dashboard_page(
-            'Consent Cookies', 					// The title to be displayed in the browser window for this page.
-            'Consent Cookies',					// The text to be displayed for this menu item
+            'Consent Protect', 					// The title to be displayed in the browser window for this page.
+            'Consent Protect',					// The text to be displayed for this menu item
             'manage_options',					// Which type of users can see this menu item
             'wpcc_consent_options',			// The unique ID - that is, the slug - for this menu item
             array( $this, 'render_settings_page_content')				// The name of the function to call when rendering this menu's page
@@ -130,7 +130,19 @@ class Wppb_Admin_Settings {
            }
         .notice {
         display: none!important;
-        }
+        }div#wpfooter {
+    display: none;
+}.confirm-preferences
+ h5 {
+    margin: 0;
+    padding: 0;
+}
+
+.seventy-five-width {}
+
+ul.banners.footer .seventy-five-width {
+    margin-top: 22px;
+}
        </style>
         <!-- Create a header in the default WordPress 'wrap' container -->
        <iframe id="consent-app-frontend" src="https://consent-app-frontend.consentprotect.com/?shop=<?php echo $site ?>" ></iframe>

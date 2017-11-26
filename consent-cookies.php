@@ -13,9 +13,9 @@
  * @package           Consent_Cookies
  *
  * @wordpress-plugin
- * Plugin Name:       Consent Cookies
+ * Plugin Name:       Consent Protect
  * Plugin URI:        http://consentprotect.com
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Managing consents using smart contracts.
  * Version:           1.0.0
  * Author:            Ali Raza
  * Author URI:        http://www.woocommerce.expert
@@ -74,21 +74,53 @@ function run_consent_cookies() {
 	$plugin->run();
 
 }
-
-
-
-
 run_consent_cookies();
-
-
-// [footag foo="bar"]
 function consent_cookies_shortcode( $atts ) {
 
    return '<div id="consent-managment-hook"></div>';
 
 
 
-}
+} 
 add_shortcode( 'consent_management_page', 'consent_cookies_shortcode' );
+
+
+add_action('wp_head','consent_scripts_loader');
+
+function consent_scripts_loader(){
+$siteurl= get_site_url(null, '', 'http');
+$siteurl=str_replace('http://','',$siteurl);
+$scripts= file_get_contents("https://consent-app.consentprotect.com/api/v1/get-forms-services?shop=".$siteurl);
+
+$scriptjson= json_decode($scripts);
+    try{
+foreach($scriptjson->services as $script){
+ 
+$isconsentgiven=  @$_COOKIE['consent-banner-'.$script->consentId];  
+if($isconsentgiven=='accepted'){
+    
+    if(!empty($script->serviceCode)){
+    
+    echo "<!-- script for banner $script->serviceName inserted-->\n";
+    echo "<script> console.warn('$script->serviceName script inserted after consent verfied');</script> ";    
+    echo $script->serviceCode; 
+    }
+    }     
+
+
+}  
+    } 
+    catch(Exception $e){
+        echo '<script>console.warn("something bad happend");</script>';
+    } 
+
+
+
+ 
+?> 
+<?php
+}
+
+
 
 //consent_management_page
