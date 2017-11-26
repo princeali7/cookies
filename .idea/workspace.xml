@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac271acd-0206-481a-9ab0-d745fa0cd484" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="consent-cookies.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/consent-cookies.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+              <folding>
+                <element signature="e#988#1025#0#PHP" expanded="false" />
+                <element signature="e#1065#1197#0#PHP" expanded="false" />
+                <element signature="e#1198#1369#0#PHP" expanded="false" />
+                <element signature="e#1371#1507#0#PHP" expanded="false" />
+                <element signature="e#1508#1687#0#PHP" expanded="false" />
+                <element signature="e#1826#1958#0#PHP" expanded="false" />
+                <element signature="e#2036#2265#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-consent-cookies-admin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/class-consent-cookies-admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1350">
+              <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="consent-plugin-settings.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/consent-plugin-settings.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+              <folding>
+                <element signature="e#317#484#0#PHP" expanded="false" />
+                <element signature="e#485#539#0#PHP" expanded="false" />
+                <element signature="n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="e#572#734#0#PHP" expanded="false" />
+                <element signature="e#765#941#0#PHP" expanded="false" />
+                <element signature="e#968#1203#0#PHP" expanded="false" />
+                <element signature="n#__construct#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="n#setup_plugin_options_menu#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="e#1463#1981#0#PHP" expanded="false" />
+                <element signature="e#1994#2089#0#PHP" expanded="false" />
+                <element signature="n#default_display_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="e#2158#2277#0#PHP" expanded="false" />
+                <element signature="e#2315#2408#0#PHP" expanded="false" />
+                <element signature="n#default_social_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="e#2476#2592#0#PHP" expanded="false" />
+                <element signature="e#2631#2724#0#PHP" expanded="false" />
+                <element signature="n#default_input_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="e#2791#3018#0#PHP" expanded="false" />
+                <element signature="e#3056#3141#0#PHP" expanded="false" />
+                <element signature="n#render_settings_page_content#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="e#3328#3796#0#HTML" expanded="false" />
+                <element signature="e#3363#3564#0#HTML" expanded="false" />
+                <element signature="e#3576#3719#0#HTML" expanded="false" />
+                <element signature="e#3656#3705#0#HTML" expanded="false" />
+                <element signature="e#3736#3780#0#HTML" expanded="false" />
+                <element signature="e#3972#3977#0#PHP" expanded="false" />
+                <element signature="e#4028#4277#0#PHP" expanded="false" />
+                <element signature="n#general_options_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="e#4570#4825#0#PHP" expanded="false" />
+                <element signature="n#social_options_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="e#5128#5391#0#PHP" expanded="false" />
+                <element signature="n#input_examples_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="e#5682#5873#0#PHP" expanded="false" />
+                <element signature="n#initialize_display_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="e#5991#6199#0#PHP" expanded="false" />
+                <element signature="e#6208#6707#0#PHP" expanded="false" />
+                <element signature="e#6810#7605#0#PHP" expanded="false" />
+                <element signature="e#7385#7595#0#PHP" expanded="false" />
+                <element signature="e#7615#7983#0#PHP" expanded="false" />
+                <element signature="e#7862#7973#0#PHP" expanded="false" />
+                <element signature="e#7993#8357#0#PHP" expanded="false" />
+                <element signature="e#8237#8347#0#PHP" expanded="false" />
+                <element signature="e#8425#8539#0#PHP" expanded="false" />
+                <element signature="e#8558#8743#0#PHP" expanded="false" />
+                <element signature="n#initialize_social_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="e#8856#9064#0#PHP" expanded="false" />
+                <element signature="e#9083#9538#0#PHP" expanded="false" />
+                <element signature="e#9548#9751#0#PHP" expanded="false" />
+                <element signature="e#9761#9967#0#PHP" expanded="false" />
+                <element signature="e#9977#10186#0#PHP" expanded="false" />
+                <element signature="e#10196#10362#0#PHP" expanded="false" />
+                <element signature="e#10374#10652#0#PHP" expanded="false" />
+                <element signature="n#initialize_input_examples#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="e#10767#10974#0#PHP" expanded="false" />
+                <element signature="e#10993#11214#0#PHP" expanded="false" />
+                <element signature="e#11224#11470#0#PHP" expanded="false" />
+                <element signature="e#11480#11735#0#PHP" expanded="false" />
+                <element signature="e#11745#12000#0#PHP" expanded="false" />
+                <element signature="e#12010#12272#0#PHP" expanded="false" />
+                <element signature="e#12282#12531#0#PHP" expanded="false" />
+                <element signature="e#12541#12707#0#PHP" expanded="false" />
+                <element signature="e#12719#12990#0#PHP" expanded="false" />
+                <element signature="n#toggle_header_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="n#toggle_content_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="n#toggle_footer_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="n#twitter_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="e#15069#15166#0#PHP" expanded="false" />
+                <element signature="n#facebook_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="e#15485#15584#0#PHP" expanded="false" />
+                <element signature="n#googleplus_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="e#15908#16011#0#PHP" expanded="false" />
+                <element signature="n#input_element_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="n#textarea_element_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="n#checkbox_element_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="n#radio_element_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="n#select_element_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="e#18977#19352#0#PHP" expanded="false" />
+                <element signature="n#sanitize_social_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="e#19560#19763#0#PHP" expanded="false" />
+                <element signature="e#19608#19743#0#PHP" expanded="false" />
+                <element signature="n#validate_input_examples#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+                <element signature="e#20135#20490#0#PHP" expanded="false" />
+                <element signature="e#20267#20470#0#PHP" expanded="false" />
+                <marker date="1510671112584" expanded="false" signature="13752:13758" ph=" " />
+                <marker date="1510671112584" expanded="false" signature="14218:14224" ph=" " />
+                <marker date="1510671112584" expanded="false" signature="14679:14685" ph=" " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-consent-cookies-public.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/class-consent-cookies-public.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="98" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-consent-cookies-activator.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/class-consent-cookies-activator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-consent-cookies.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/class-consent-cookies.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="160" column="0" lean-forward="true" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-consent-cookies-loader.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/class-consent-cookies-loader.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>demo</find>
+      <find>wppb_demo_options</find>
+      <find>\'show_footer\'\,\n            __\( \'Footer\'\, \'wppb\-demo\-plugin\' \)\,\n            array\( \$this\, \'toggle_footer_callback\'\)\,\n            \'wppb_demo_display_options\'\,\n            \'general_settings_section\'\,\n            array\(\n                __\( \'Activate this setting to display the footer\.\'\, \'wppb\-demo\-plugin\' \)\,\n            \)\n</find>
+      <find>wppb_demo_</find>
+      <find>ifram</find>
+      <find>Wppb_Demo_Plugin</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>wpcc_consent</replace>
+      <replace>wpcc_consent_</replace>
+      <replace>Wpcc_Consent_</replace>
+      <replace>Wpcc_Consent</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\Development\Client 2017\petere jackson\wordpress\consent-cookies\consent-cookies</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/admin/class-consent-cookies-admin.php" />
+        <option value="$PROJECT_DIR$/public/class-consent-cookies-public.php" />
+        <option value="$PROJECT_DIR$/admin/consent-plugin-settings.php" />
+        <option value="$PROJECT_DIR$/includes/class-consent-cookies.php" />
+        <option value="$PROJECT_DIR$/consent-cookies.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="1931" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="consent-cookies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="consent-cookies" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="consent-cookies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="consent-cookies" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Consent-App" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac271acd-0206-481a-9ab0-d745fa0cd484" name="Default" comment="" />
+      <created>1505736142004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505736142004</updated>
+      <workItem from="1505736143226" duration="2499000" />
+      <workItem from="1505807350980" duration="31000" />
+      <workItem from="1510658902545" duration="7710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10240000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25134265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33940774" sideWeight="0.5021482" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.49375" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33940774" sideWeight="0.49785176" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/admin/consent-plugin-settings.php</url>
+          <line>208</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/consent-cookies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="52" column="16" lean-forward="false" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+          <folding>
+            <element signature="e#988#1025#0#PHP" expanded="false" />
+            <element signature="e#1065#1197#0#PHP" expanded="false" />
+            <element signature="e#1198#1369#0#PHP" expanded="false" />
+            <element signature="e#1371#1507#0#PHP" expanded="false" />
+            <element signature="e#1508#1687#0#PHP" expanded="false" />
+            <element signature="e#1826#1958#0#PHP" expanded="false" />
+            <element signature="e#2036#2265#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/class-consent-cookies-admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="53" column="35" lean-forward="false" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/consent-plugin-settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1974">
+          <caret line="127" column="125" lean-forward="false" selection-start-line="127" selection-start-column="125" selection-end-line="127" selection-end-column="125" />
+          <folding>
+            <element signature="e#317#484#0#PHP" expanded="false" />
+            <element signature="e#485#539#0#PHP" expanded="false" />
+            <element signature="n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#572#734#0#PHP" expanded="false" />
+            <element signature="e#765#941#0#PHP" expanded="false" />
+            <element signature="e#968#1203#0#PHP" expanded="false" />
+            <element signature="n#__construct#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#setup_plugin_options_menu#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#1463#1981#0#PHP" expanded="false" />
+            <element signature="e#1994#2089#0#PHP" expanded="false" />
+            <element signature="n#default_display_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#2158#2277#0#PHP" expanded="false" />
+            <element signature="e#2315#2408#0#PHP" expanded="false" />
+            <element signature="n#default_social_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#2476#2592#0#PHP" expanded="false" />
+            <element signature="e#2631#2724#0#PHP" expanded="false" />
+            <element signature="n#default_input_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#2791#3018#0#PHP" expanded="false" />
+            <element signature="e#3056#3141#0#PHP" expanded="false" />
+            <element signature="n#render_settings_page_content#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#3328#3796#0#HTML" expanded="false" />
+            <element signature="e#3363#3564#0#HTML" expanded="false" />
+            <element signature="e#3576#3719#0#HTML" expanded="false" />
+            <element signature="e#3656#3705#0#HTML" expanded="false" />
+            <element signature="e#3736#3780#0#HTML" expanded="false" />
+            <element signature="e#3972#3977#0#PHP" expanded="false" />
+            <element signature="e#4028#4277#0#PHP" expanded="false" />
+            <element signature="n#general_options_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#4570#4825#0#PHP" expanded="false" />
+            <element signature="n#social_options_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#5128#5391#0#PHP" expanded="false" />
+            <element signature="n#input_examples_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#5682#5873#0#PHP" expanded="false" />
+            <element signature="n#initialize_display_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#5991#6199#0#PHP" expanded="false" />
+            <element signature="e#6208#6707#0#PHP" expanded="false" />
+            <element signature="e#6810#7605#0#PHP" expanded="false" />
+            <element signature="e#7385#7595#0#PHP" expanded="false" />
+            <element signature="e#7615#7983#0#PHP" expanded="false" />
+            <element signature="e#7862#7973#0#PHP" expanded="false" />
+            <element signature="e#7993#8357#0#PHP" expanded="false" />
+            <element signature="e#8237#8347#0#PHP" expanded="false" />
+            <element signature="e#8425#8539#0#PHP" expanded="false" />
+            <element signature="e#8558#8743#0#PHP" expanded="false" />
+            <element signature="n#initialize_social_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#8856#9064#0#PHP" expanded="false" />
+            <element signature="e#9083#9538#0#PHP" expanded="false" />
+            <element signature="e#9548#9751#0#PHP" expanded="false" />
+            <element signature="e#9761#9967#0#PHP" expanded="false" />
+            <element signature="e#9977#10186#0#PHP" expanded="false" />
+            <element signature="e#10196#10362#0#PHP" expanded="false" />
+            <element signature="e#10374#10652#0#PHP" expanded="false" />
+            <element signature="n#initialize_input_examples#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#10767#10974#0#PHP" expanded="false" />
+            <element signature="e#10993#11214#0#PHP" expanded="false" />
+            <element signature="e#11224#11470#0#PHP" expanded="false" />
+            <element signature="e#11480#11735#0#PHP" expanded="false" />
+            <element signature="e#11745#12000#0#PHP" expanded="false" />
+            <element signature="e#12010#12272#0#PHP" expanded="false" />
+            <element signature="e#12282#12531#0#PHP" expanded="false" />
+            <element signature="e#12541#12707#0#PHP" expanded="false" />
+            <element signature="e#12719#12990#0#PHP" expanded="false" />
+            <element signature="n#toggle_header_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#toggle_content_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#toggle_footer_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#twitter_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#15069#15166#0#PHP" expanded="false" />
+            <element signature="n#facebook_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#15485#15584#0#PHP" expanded="false" />
+            <element signature="n#googleplus_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#15908#16011#0#PHP" expanded="false" />
+            <element signature="n#input_element_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#textarea_element_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#checkbox_element_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#radio_element_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#select_element_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#18977#19352#0#PHP" expanded="false" />
+            <element signature="n#sanitize_social_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#19560#19763#0#PHP" expanded="false" />
+            <element signature="e#19608#19743#0#PHP" expanded="false" />
+            <element signature="n#validate_input_examples#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#20135#20490#0#PHP" expanded="false" />
+            <element signature="e#20267#20470#0#PHP" expanded="false" />
+            <marker date="1510671112584" expanded="false" signature="13752:13758" ph=" " />
+            <marker date="1510671112584" expanded="false" signature="14218:14224" ph=" " />
+            <marker date="1510671112584" expanded="false" signature="14679:14685" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-consent-cookies-activator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-consent-cookies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3024">
+          <caret line="155" column="50" lean-forward="false" selection-start-line="155" selection-start-column="50" selection-end-line="155" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-consent-cookies-loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-consent-cookies-deactivator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consent-cookies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="52" column="16" lean-forward="true" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+          <folding>
+            <element signature="e#988#1025#0#PHP" expanded="false" />
+            <element signature="e#1065#1197#0#PHP" expanded="false" />
+            <element signature="e#1198#1369#0#PHP" expanded="false" />
+            <element signature="e#1371#1507#0#PHP" expanded="false" />
+            <element signature="e#1508#1687#0#PHP" expanded="false" />
+            <element signature="e#1826#1958#0#PHP" expanded="false" />
+            <element signature="e#2036#2265#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/class-consent-cookies-admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="53" column="35" lean-forward="false" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-consent-cookies-activator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-consent-cookies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3024">
+          <caret line="155" column="50" lean-forward="false" selection-start-line="155" selection-start-column="50" selection-end-line="155" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-consent-cookies-loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-consent-cookies-deactivator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/partials/consent-cookies-admin-display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/consent-plugin-settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2667">
+          <caret line="127" column="125" lean-forward="false" selection-start-line="127" selection-start-column="125" selection-end-line="127" selection-end-column="125" />
+          <folding>
+            <element signature="e#317#484#0#PHP" expanded="false" />
+            <element signature="e#485#539#0#PHP" expanded="false" />
+            <element signature="n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#572#734#0#PHP" expanded="false" />
+            <element signature="e#765#941#0#PHP" expanded="false" />
+            <element signature="e#968#1203#0#PHP" expanded="false" />
+            <element signature="n#__construct#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#setup_plugin_options_menu#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#1463#1981#0#PHP" expanded="false" />
+            <element signature="e#1994#2089#0#PHP" expanded="false" />
+            <element signature="n#default_display_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#2158#2277#0#PHP" expanded="false" />
+            <element signature="e#2315#2408#0#PHP" expanded="false" />
+            <element signature="n#default_social_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#2476#2592#0#PHP" expanded="false" />
+            <element signature="e#2631#2724#0#PHP" expanded="false" />
+            <element signature="n#default_input_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#2791#3018#0#PHP" expanded="false" />
+            <element signature="e#3056#3141#0#PHP" expanded="false" />
+            <element signature="n#render_settings_page_content#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#3328#3796#0#HTML" expanded="false" />
+            <element signature="e#3363#3564#0#HTML" expanded="false" />
+            <element signature="e#3576#3719#0#HTML" expanded="false" />
+            <element signature="e#3656#3705#0#HTML" expanded="false" />
+            <element signature="e#3736#3780#0#HTML" expanded="false" />
+            <element signature="e#3972#3977#0#PHP" expanded="false" />
+            <element signature="e#4028#4277#0#PHP" expanded="false" />
+            <element signature="n#general_options_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#4570#4825#0#PHP" expanded="false" />
+            <element signature="n#social_options_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#5128#5391#0#PHP" expanded="false" />
+            <element signature="n#input_examples_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#5682#5873#0#PHP" expanded="false" />
+            <element signature="n#initialize_display_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#5991#6199#0#PHP" expanded="false" />
+            <element signature="e#6208#6707#0#PHP" expanded="false" />
+            <element signature="e#6810#7605#0#PHP" expanded="false" />
+            <element signature="e#7385#7595#0#PHP" expanded="false" />
+            <element signature="e#7615#7983#0#PHP" expanded="false" />
+            <element signature="e#7862#7973#0#PHP" expanded="false" />
+            <element signature="e#7993#8357#0#PHP" expanded="false" />
+            <element signature="e#8237#8347#0#PHP" expanded="false" />
+            <element signature="e#8425#8539#0#PHP" expanded="false" />
+            <element signature="e#8558#8743#0#PHP" expanded="false" />
+            <element signature="n#initialize_social_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#8856#9064#0#PHP" expanded="false" />
+            <element signature="e#9083#9538#0#PHP" expanded="false" />
+            <element signature="e#9548#9751#0#PHP" expanded="false" />
+            <element signature="e#9761#9967#0#PHP" expanded="false" />
+            <element signature="e#9977#10186#0#PHP" expanded="false" />
+            <element signature="e#10196#10362#0#PHP" expanded="false" />
+            <element signature="e#10374#10652#0#PHP" expanded="false" />
+            <element signature="n#initialize_input_examples#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#10767#10974#0#PHP" expanded="false" />
+            <element signature="e#10993#11214#0#PHP" expanded="false" />
+            <element signature="e#11224#11470#0#PHP" expanded="false" />
+            <element signature="e#11480#11735#0#PHP" expanded="false" />
+            <element signature="e#11745#12000#0#PHP" expanded="false" />
+            <element signature="e#12010#12272#0#PHP" expanded="false" />
+            <element signature="e#12282#12531#0#PHP" expanded="false" />
+            <element signature="e#12541#12707#0#PHP" expanded="false" />
+            <element signature="e#12719#12990#0#PHP" expanded="false" />
+            <element signature="n#toggle_header_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#toggle_content_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#toggle_footer_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#twitter_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#15069#15166#0#PHP" expanded="false" />
+            <element signature="n#facebook_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#15485#15584#0#PHP" expanded="false" />
+            <element signature="n#googleplus_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#15908#16011#0#PHP" expanded="false" />
+            <element signature="n#input_element_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#textarea_element_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#checkbox_element_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#radio_element_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#select_element_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#18977#19352#0#PHP" expanded="false" />
+            <element signature="n#sanitize_social_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#19560#19763#0#PHP" expanded="false" />
+            <element signature="e#19608#19743#0#PHP" expanded="false" />
+            <element signature="n#validate_input_examples#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#20135#20490#0#PHP" expanded="false" />
+            <element signature="e#20267#20470#0#PHP" expanded="false" />
+            <marker date="1510671112584" expanded="false" signature="13752:13758" ph=" " />
+            <marker date="1510671112584" expanded="false" signature="14218:14224" ph=" " />
+            <marker date="1510671112584" expanded="false" signature="14679:14685" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/partials/consent-cookies-admin-display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-consent-cookies-deactivator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-consent-cookies-loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-consent-cookies-activator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/class-consent-cookies-public.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="98" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/class-consent-cookies-admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1350">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/consent-plugin-settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <element signature="e#317#484#0#PHP" expanded="false" />
+            <element signature="e#485#539#0#PHP" expanded="false" />
+            <element signature="n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#572#734#0#PHP" expanded="false" />
+            <element signature="e#765#941#0#PHP" expanded="false" />
+            <element signature="e#968#1203#0#PHP" expanded="false" />
+            <element signature="n#__construct#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#setup_plugin_options_menu#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#1463#1981#0#PHP" expanded="false" />
+            <element signature="e#1994#2089#0#PHP" expanded="false" />
+            <element signature="n#default_display_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#2158#2277#0#PHP" expanded="false" />
+            <element signature="e#2315#2408#0#PHP" expanded="false" />
+            <element signature="n#default_social_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#2476#2592#0#PHP" expanded="false" />
+            <element signature="e#2631#2724#0#PHP" expanded="false" />
+            <element signature="n#default_input_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#2791#3018#0#PHP" expanded="false" />
+            <element signature="e#3056#3141#0#PHP" expanded="false" />
+            <element signature="n#render_settings_page_content#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#3328#3796#0#HTML" expanded="false" />
+            <element signature="e#3363#3564#0#HTML" expanded="false" />
+            <element signature="e#3576#3719#0#HTML" expanded="false" />
+            <element signature="e#3656#3705#0#HTML" expanded="false" />
+            <element signature="e#3736#3780#0#HTML" expanded="false" />
+            <element signature="e#3972#3977#0#PHP" expanded="false" />
+            <element signature="e#4028#4277#0#PHP" expanded="false" />
+            <element signature="n#general_options_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#4570#4825#0#PHP" expanded="false" />
+            <element signature="n#social_options_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#5128#5391#0#PHP" expanded="false" />
+            <element signature="n#input_examples_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#5682#5873#0#PHP" expanded="false" />
+            <element signature="n#initialize_display_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#5991#6199#0#PHP" expanded="false" />
+            <element signature="e#6208#6707#0#PHP" expanded="false" />
+            <element signature="e#6810#7605#0#PHP" expanded="false" />
+            <element signature="e#7385#7595#0#PHP" expanded="false" />
+            <element signature="e#7615#7983#0#PHP" expanded="false" />
+            <element signature="e#7862#7973#0#PHP" expanded="false" />
+            <element signature="e#7993#8357#0#PHP" expanded="false" />
+            <element signature="e#8237#8347#0#PHP" expanded="false" />
+            <element signature="e#8425#8539#0#PHP" expanded="false" />
+            <element signature="e#8558#8743#0#PHP" expanded="false" />
+            <element signature="n#initialize_social_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#8856#9064#0#PHP" expanded="false" />
+            <element signature="e#9083#9538#0#PHP" expanded="false" />
+            <element signature="e#9548#9751#0#PHP" expanded="false" />
+            <element signature="e#9761#9967#0#PHP" expanded="false" />
+            <element signature="e#9977#10186#0#PHP" expanded="false" />
+            <element signature="e#10196#10362#0#PHP" expanded="false" />
+            <element signature="e#10374#10652#0#PHP" expanded="false" />
+            <element signature="n#initialize_input_examples#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#10767#10974#0#PHP" expanded="false" />
+            <element signature="e#10993#11214#0#PHP" expanded="false" />
+            <element signature="e#11224#11470#0#PHP" expanded="false" />
+            <element signature="e#11480#11735#0#PHP" expanded="false" />
+            <element signature="e#11745#12000#0#PHP" expanded="false" />
+            <element signature="e#12010#12272#0#PHP" expanded="false" />
+            <element signature="e#12282#12531#0#PHP" expanded="false" />
+            <element signature="e#12541#12707#0#PHP" expanded="false" />
+            <element signature="e#12719#12990#0#PHP" expanded="false" />
+            <element signature="n#toggle_header_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#toggle_content_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#toggle_footer_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#twitter_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#15069#15166#0#PHP" expanded="false" />
+            <element signature="n#facebook_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#15485#15584#0#PHP" expanded="false" />
+            <element signature="n#googleplus_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#15908#16011#0#PHP" expanded="false" />
+            <element signature="n#input_element_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#textarea_element_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#checkbox_element_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#radio_element_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="n#select_element_callback#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#18977#19352#0#PHP" expanded="false" />
+            <element signature="n#sanitize_social_options#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#19560#19763#0#PHP" expanded="false" />
+            <element signature="e#19608#19743#0#PHP" expanded="false" />
+            <element signature="n#validate_input_examples#0;n#Wppb_Admin_Settings#0;n#!!top" expanded="false" />
+            <element signature="e#20135#20490#0#PHP" expanded="false" />
+            <element signature="e#20267#20470#0#PHP" expanded="false" />
+            <marker date="1510671112584" expanded="false" signature="13752:13758" ph=" " />
+            <marker date="1510671112584" expanded="false" signature="14218:14224" ph=" " />
+            <marker date="1510671112584" expanded="false" signature="14679:14685" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-consent-cookies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="160" column="0" lean-forward="true" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consent-cookies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding>
+            <element signature="e#988#1025#0#PHP" expanded="false" />
+            <element signature="e#1065#1197#0#PHP" expanded="false" />
+            <element signature="e#1198#1369#0#PHP" expanded="false" />
+            <element signature="e#1371#1507#0#PHP" expanded="false" />
+            <element signature="e#1508#1687#0#PHP" expanded="false" />
+            <element signature="e#1826#1958#0#PHP" expanded="false" />
+            <element signature="e#2036#2265#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
