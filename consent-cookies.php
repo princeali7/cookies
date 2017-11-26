@@ -17,7 +17,7 @@
  * Plugin URI:        http://consentprotect.com
  * Description:       Managing consents using smart contracts.
  * Version:           1.0.0
- * Author:            Ali Raza
+ * Author:            Ali Raza 
  * Author URI:        http://www.woocommerce.expert
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
@@ -120,6 +120,13 @@ if($isconsentgiven=='accepted'){
 ?> 
 <?php
 }
+
+require 'plugin-update-checker/plugin-update-checker.php';
+$myUpdateChecker = Puc_v4p3_Factory::buildUpdateChecker(
+	'https://github.com/princeali7/cookies/',
+	__FILE__,
+	'consent-cookies'
+);
 
 
 
