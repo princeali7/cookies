@@ -16,7 +16,7 @@
  * Plugin Name:       Consent Protect 
  * Plugin URI:        http://consentprotect.com
  * Description:       Managing consents using smart contracts.
- * Version:           1.2.5  
+ * Version:           1.2.6  
  * Author:            Ali Raza 
  * Author URI:        http://www.woocommerce.expert
  * License:           GPL-2.0+
@@ -120,8 +120,20 @@ if($isconsentgiven=='accepted'){
 ?> 
 <?php
 }
-
- 
+add_action('admin_head','czc_admin_icon_css');
+ function czc_admin_icon_css(){
+     ?>
+<style>.wp-menu-image.dashicons-before.dashicons-admin-consent-protect:before {
+    background: url(https://consent-app.consentprotect.com/images/security.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    display: block;
+    content: " ";
+    margin: 6px auto;
+}</style>
+<?php
+     
+ }
 
 
 require 'plugin-update-checker/plugin-update-checker.php';
