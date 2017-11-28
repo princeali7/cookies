@@ -53,14 +53,9 @@ class Wppb_Admin_Settings {
     }
 
     public function setup_plugin_options_menu() {
-        //Add the menu to the Plugins set of menu items
-        add_dashboard_page(
-            'Consent Protect', 					// The title to be displayed in the browser window for this page.
-            'Consent Protect',					// The text to be displayed for this menu item
-            'manage_options',					// Which type of users can see this menu item
-            'wpcc_consent_options',			// The unique ID - that is, the slug - for this menu item
-            array( $this, 'render_settings_page_content')				// The name of the function to call when rendering this menu's page
-        );
+     
+            
+	add_menu_page( 'Consent Protect', 'Consent Protect','manage_options', 'wpcc_consent_options',array( $this, 'render_settings_page_content')	,'dashicons-admin-consent-protect');
 
     }
     /**
@@ -114,7 +109,14 @@ class Wppb_Admin_Settings {
 
 
         ?>
-       <style>iframe#consent-app-frontend {
+       <style>.wp-menu-image.dashicons-before.dashicons-admin-consent-protect:before {
+    background: url('https://consent-app.consentprotect.com/images/security.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    display: block;
+    content: " ";
+    margin: 6px auto;
+}iframe#consent-app-frontend {
                position: fixed!important;
                top: 36px;
                width: 90%;
