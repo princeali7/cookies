@@ -109,14 +109,7 @@ class Wppb_Admin_Settings {
 
 
         ?>
-       <style>.wp-menu-image.dashicons-before.dashicons-admin-consent-protect:before {
-    background: url('https://consent-app.consentprotect.com/images/security.png');
-    background-size: 100%;
-    background-repeat: no-repeat;
-    display: block;
-    content: " ";
-    margin: 6px auto;
-}iframe#consent-app-frontend {
+       <style>iframe#consent-app-frontend {
                position: fixed!important;
                top: 36px;
                width: 90%;
@@ -146,9 +139,35 @@ ul.banners.footer .seventy-five-width {
     margin-top: 22px;
 }
        </style>
-        <!-- Create a header in the default WordPress 'wrap' container -->
+            <?php $active= file_get_contents("https://consent-app.consentprotect.com/api/v1/get-activeStatus?shop=$site");
+      if($active==1):
+            ?>
+
        <iframe id="consent-app-frontend" src="https://consent-app-frontend.consentprotect.com/?shop=<?php echo $site ?>" ></iframe>
+
         <?php
+
+      else:
+
+
+      ?>
+
+      <h3>Request Access</h3>
+      <p>
+        Hi you dont have access yet.
+      </p>
+          <p>     Request Access by emailing at info@consentprotect.com
+       <br> Provide this url: <?php echo $site;?>
+
+      </p>
+
+
+
+      <?php
+
+
+
+      endif;
     }
     /**
      * This function provides a simple description for the General Options page.

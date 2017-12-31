@@ -124,7 +124,7 @@ add_action('admin_head','czc_admin_icon_css');
  function czc_admin_icon_css(){
      ?>
 <style>.wp-menu-image.dashicons-before.dashicons-admin-consent-protect:before {
-    background: url(https://consent-app.consentprotect.com/images/security.png);
+    background: url(https://consent-app.consentprotect.com/images/security_white.png);
     background-size: 100%;
     background-repeat: no-repeat;
     display: block;

@@ -2,12 +2,12 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="5956d7ed-394b-4425-8bc4-fbddb5245a6f" name="LiveServer" url="https://www.woocommerce.expert">
-        <fileTransfer host="woocommerce.expert" port="21" rootFolder="/woocommerce.expert/wp-content/plugins/consent-cookies">
+      <webServer id="5956d7ed-394b-4425-8bc4-fbddb5245a6f" name="LiveServer" url="https://www.consentprotect.com">
+        <fileTransfer host="www.consentprotect.com" port="22" privateKey="$PROJECT_DIR$/../../../../../keys/consentwordpress.ppk" rootFolder="/opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/consent-cookies" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="21" />
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
